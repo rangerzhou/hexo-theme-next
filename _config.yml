@@ -380,13 +380,13 @@ back2top:
 reading_progress:
   enable: true
   # Available values: top | bottom
-  position: top
+  position: bottom
   color: "#37c6c0"
   height: 3px
 
 # Bookmark Support
 bookmark:
-  enable: false
+  enable: true
   # Customize the color of the bookmark.
   color: "#222"
   # If auto, save the reading progress when closing the page or clicking the bookmark-icon.
